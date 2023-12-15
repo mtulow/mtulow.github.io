@@ -8,6 +8,7 @@ description: A public repository of projects and assignments to highlight skills
 ![Mut Tulow](./images/IMG_1048.jpeg)
 
 </center>
+
 ---
 
 ## Careers & Roles
@@ -16,11 +17,6 @@ description: A public repository of projects and assignments to highlight skills
 - [Data Scientist](./careers/data_scientist.md)
 - [AI Engineer](./careers/ai_engineer.md)
 - [Geospatial Data Scientist](./careers/geospatial_data_scientist.md)
-
----
-
-## Experience
-- TODO: Add experience here.
 
 ---
 
