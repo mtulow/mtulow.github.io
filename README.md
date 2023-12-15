@@ -1,5 +1,5 @@
 # Mut Tulow
- A public repository of projects and assignments to highlight skills.
+A public repository of projects and assignments to highlight skills.
 
 ![Mut Tulow](./images/IMG_1048.jpeg)
 
