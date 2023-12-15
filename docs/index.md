@@ -11,15 +11,6 @@ description: A public repository of projects and assignments to highlight skills
 
 ---
 
-## Careers & Roles
-- [Data Engineer](./careers/data_engineer.md)
-- [Data Analyst](./careers/data_analyst.md)
-- [Data Scientist](./careers/data_scientist.md)
-- [AI Engineer](./careers/ai_engineer.md)
-- [Geospatial Data Scientist](./careers/geospatial_data_scientist.md)
-
----
-
 ## Education & Certifications
 #### Galvanize:
 - [x] [Basic Prep](https://www.galvanize.com/alumni/)
@@ -38,12 +29,6 @@ description: A public repository of projects and assignments to highlight skills
 - [x] [Time Series](https://www.kaggle.com/learn/certification/muttulow/time-series)
 - [x] [Data Visualization](https://www.kaggle.com/learn/certification/muttulow/data-visualization)
 - [x] [Pandas](https://www.kaggle.com/learn/certification/muttulow/pandas)
-
-
----
-
-## Projects
-- TODO: Add projects here.
 
 ---
 
