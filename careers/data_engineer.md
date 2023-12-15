@@ -13,64 +13,71 @@
 
 ## Tools & Technologies:
 
-### Cloud Platforms:
+#### Cloud Platforms:
 - [ ] AWS
 - [ ] Azure
 - [ ] Google Cloud Platform
 - [ ] ...
 
-### Containerization:
+#### Containerization:
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] ...
 
-### Infrastructure as code (IaC):
+#### Infrastructure as code (IaC):
 - [ ] Terraform
 - [ ] Pulumi
 - [ ] Cloud Formation
 - [ ] ...
 
-### Workflow Orchestration:
+#### Workflow Orchestration:
 - [ ] Prefect
 - [ ] Apache Airflow
 - [ ] Luigi
 - [ ] ...
 
-### Data Cleaning & Transformation:
+#### Data Cleaning & Transformation:
 - [ ] Pandas
 - [ ] PySpark
 - [ ] SQL
 - [ ] dbt
 
-### Data Modeling:
+#### Data Modeling:
 - [ ] Apache Spark
 - [ ] dbt
 - [ ] ...
 
-### Data Lakes:
+#### Data Lakes:
 - [ ] AWS S3
 - [ ] Azure Data Lake Storage
 - [ ] Google Cloud Storage
 
-### Data Warehouses:
+#### Data Warehouses:
 - [ ] AWS Redshift
 - [ ] Azure Synapse Analytics
 - [ ] Google BigQuery
 - [ ] Snowflake
 
-### Databases:
+#### Databases:
 - __RDMS:__
   - [ ] PostgreSQL
 - __NoSQL:__
   - [ ] MongoDB
   - [ ] Neo4j
 
-
-### Tests:
+#### Tests:
 - [ ] Pytest
 - [ ] Unittest
 - [ ] ...
 
-### CI/CD Pipelines:
+#### CI/CD Pipelines:
 - [ ] GitHub Actions
 - [ ] ...
+
+---
+
+
+
+---
+---
+---

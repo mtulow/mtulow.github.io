@@ -9,6 +9,8 @@ A public repository of projects and assignments to highlight skills.
 - [Data Engineer](./careers/data_engineer.md)
 - [Data Analyst](./careers/data_analyst.md)
 - [Data Scientist](./careers/data_scientist.md)
+- [AI Engineer](./careers/ai_engineer.md)
+- [Geospatial Data Scientist](./careers/geospatial_data_scientist.md)
 
 ---
 
