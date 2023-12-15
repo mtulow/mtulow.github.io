@@ -15,7 +15,23 @@ A public repository of projects and assignments to highlight skills.
 ---
 
 ## Courses
-- TODO: Add courses here.
+- __Galvanize:__
+  - [x] [Basic Prep](https://www.galvanize.com/alumni/)
+  - [x] [Data Science Immersive](https://www.galvanize.com/alumni/)
+- __Data Talks Club:__
+  - [x] [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+  - [x] [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+  - [x] [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+- __Kaggle:__
+  - [x] [Intro to Machine Learning](https://www.kaggle.com/learn/certification/muttulow/intro-to-machine-learning)
+  - [x] [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/muttulow/intermediate-machine-learning)
+  - [x] [Feature Engineering](https://www.kaggle.com/learn/certification/muttulow/feature-engineering)
+  - [x] [Deep Learning](https://www.kaggle.com/learn/certification/muttulow/intro-to-deep-learning)
+  - [x] [Computer Vision](https://www.kaggle.com/learn/certification/muttulow/computer-vision)
+  - [x] [Geospatial Analysis](https://www.kaggle.com/learn/certification/muttulow/geospatial-analysis)
+  - [x] [Time Series](https://www.kaggle.com/learn/certification/muttulow/time-series)
+  - [x] [Data Visualization](https://www.kaggle.com/learn/certification/muttulow/data-visualization)
+  - [x] [Pandas](https://www.kaggle.com/learn/certification/muttulow/pandas) 
 
 ---
 
