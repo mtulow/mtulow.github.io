@@ -35,16 +35,19 @@ description: A public repository of projects and assignments to highlight skills
 ---
 
 ## Technical Skills
+
 #### Programming:
 - Git
 - Python
 - Scala
 - Julia
 - Bash / Zsh
+
 #### Databases:
 - PostgreSQL
 - PostGIS
 - MongoDB
+
 #### Machine Learning Libraries:
 - Scikit-Learn
 - TensorFlow
