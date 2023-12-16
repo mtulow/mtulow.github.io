@@ -11,13 +11,16 @@ description: A public repository of projects and assignments to highlight skills
 ---
 
 ## Education & Certifications
+
 #### Galvanize:
 - [x] [Basic Prep](https://www.galvanize.com/alumni/)
 - [x] [Data Science Immersive](https://www.galvanize.com/alumni/)
+
 #### Data Talks Club:
 - [x] [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [x] [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [x] [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+
 #### Kaggle:
 - [x] [Intro to Machine Learning](https://www.kaggle.com/learn/certification/muttulow/intro-to-machine-learning)
 - [x] [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/muttulow/intermediate-machine-learning)
