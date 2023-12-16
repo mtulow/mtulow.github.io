@@ -3,6 +3,7 @@ layout: default
 title: Mut Tulow's Portfolio
 description: A public repository of projects and assignments to highlight skills.
 ---
+# Mut Tulow's Portfolio
 
 <center>
 <img src="images/IMG_1048.jpeg" alt="Mut Tulow">
