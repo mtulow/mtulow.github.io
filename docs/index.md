@@ -5,9 +5,7 @@ description: A public repository of projects and assignments to highlight skills
 ---
 
 <center>
-
-  ![Mut Tulow](./images/IMG_1048.jpeg)
-
+<img src="images/IMG_1048.jpeg" alt="Mut Tulow">
 </center>
 
 ---
